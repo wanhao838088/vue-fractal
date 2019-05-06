@@ -1,6 +1,8 @@
 # vue-fractal
 
-> A Vue.js project
+> 使用Vue+Canvas绘制多种分形图
+
+  ![正方形图](https://github.com/wanhao838088/vue-fractal/blob/master/gifs/vicsek.gif)
 
 ## Build Setup
 
@@ -17,5 +19,3 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
