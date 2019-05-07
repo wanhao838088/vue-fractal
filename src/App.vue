@@ -1,17 +1,18 @@
 <template>
   <div id="app">
-    <HelloWorld/>
+    <!--导航-->
+    <nav style="height: 30px;">
+      <a href="javascript:;" @click="$router.push('/vicsek')">vicsek</a>
+      <a href="javascript:;" @click="$router.push('/sierpinski')">sierpinski</a>
+    </nav>
+    <router-view class="child-view"/>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld'
 
 export default {
   name: 'App',
-  components: {
-    HelloWorld
-  }
 }
 </script>
 

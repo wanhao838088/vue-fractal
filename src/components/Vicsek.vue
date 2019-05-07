@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
+  name: 'Vicsek',
   data () {
     return {
       drawPath:0, //绘制层级深度
