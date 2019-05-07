@@ -3,6 +3,8 @@
 > 使用Vue+Canvas绘制多种分形图
 
   ![正方形图](https://github.com/wanhao838088/vue-fractal/blob/master/gifs/vicsek.gif)
+  
+  ![正方形图2](https://github.com/wanhao838088/vue-fractal/blob/master/gifs/sierpinski_1.gif)
 
 ## Build Setup
 
