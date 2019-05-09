@@ -4,6 +4,7 @@
     <nav style="height: 30px;">
       <a href="javascript:;" @click="$router.push('/vicsek')">vicsek</a>
       <a href="javascript:;" @click="$router.push('/sierpinski')">sierpinski</a>
+      <a href="javascript:;" @click="$router.push('/tree')">tree</a>
     </nav>
     <router-view class="child-view"/>
   </div>
